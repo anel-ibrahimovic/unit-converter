@@ -1,7 +1,7 @@
 Unit converter app implemented in Python, available in two versions:
 
 
-🖥️ GUI Version (main.py)
+🖥️ GUI Version (gui.py)
 
 Desktop app built with Python’s tkinter library.
 
@@ -14,7 +14,7 @@ Entry field for input values.
 A clean, responsive interface that displays results instantly.
 
 
-🖥️ Console Version (console-version.py)
+🖥️ CLI Version (main.py)
 
 A terminal-based version for users who prefer or require a command-line interface.
 
